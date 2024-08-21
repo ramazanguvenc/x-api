@@ -1,0 +1,16 @@
+{
+    "accept": "*/*",
+    "accept-language": "en-US,en;q=0.5",
+    "authorization": "Bearer AAAAAAAAAAAAAAAAAAAAANRILgAAAAAAnNwIzUejRCOuH5E6I8xnZz4puTs%3D1Zv7ttfk8LF81IUq16cHjhLTvJu4FA33AGWWjCpTnA",
+    "cache-control": "no-cache",
+    "content-type": "application/json",
+    "origin": "https://x.com",
+    "pragma": "no-cache",
+    "priority": "u=1, i",
+    "referer": "https://x.com/",
+    "sec-gpc": "1",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36",
+    "x-guest-token": "1826347560421700090",
+    "x-twitter-active-user": "yes",
+    "x-twitter-client-language": "en"
+}
