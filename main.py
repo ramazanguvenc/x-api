@@ -11,7 +11,7 @@ def main():
     if len(sys.argv) > 2:
         save_path = sys.argv[2]
     else:
-        save_path = ''
+        save_path = '.'
 
     video_link = get_video_link(tweet_url)
     print(video_link)
